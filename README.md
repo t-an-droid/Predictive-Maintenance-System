@@ -113,7 +113,7 @@ This project addresses critical challenges in aircraft engine maintenance throug
 
 ---
 
-## Team Contribution
+## Team Contributors
 
 | Member Name               | 
 |---------------------------|
